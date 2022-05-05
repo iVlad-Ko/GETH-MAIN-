@@ -1,5 +1,3 @@
-# GETH-MAIN-
-Light Node Install
 # GETH | MAIN Light Node Install
 
 ```
