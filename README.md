@@ -142,7 +142,8 @@ curl -X POST $ETH_RPC_URL \
 ```
 
 ## Ports in use
-
+```
 0.0.0.0:8545     # RPC
 0.0.0.0:8546     # WS
 0.0.0.0:30303    # P2P
+```
