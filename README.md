@@ -49,7 +49,7 @@ source $HOME/.bash_profile
 [https://geth.ethereum.org/downloads/](https://geth.ethereum.org/downloads/)
 # install geth
 cd $HOME
-release="1.10.17-25c9b49f"   # actual at "02 May 2022"
+release="1.10.20-8f2416a8"   # actual at "15.07.2022"
 wget https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-${release}.tar.gz
 tar -xvf geth-linux-amd64-${release}.tar.gz
 rm -v geth-linux-amd64-${release}.tar.gz
